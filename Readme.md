@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">CSE Undergraduate Focused on Programming, Technology, and Problem-Solving.</h3>
+<h1 align="center">Hello! 👋<br>Namaskaram!! ☺️</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="mithun-srinivasan" /> </p>
+###
 
-- 🌱 I’m currently learning **Computer Science and Engineering @MSEC**
+<h5 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.</h5>
 
-- 📫 How to reach me **omsaimithun@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mithun-srinivasan-msec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun-srinivasan-msec" height="30" width="40" /></a>
-<a href="https://instagram.com/its_mithunsrinivasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mithunsrinivasan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omsaimithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omsaimithun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mithunsrinivasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithunsrinivasan" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me!</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+###
+
+<p align="left">✨ Creating bugs since 2025😄<br>📚 I'm currently learning Computer Science and Engineering and Programming Languages.<br>🎯 Goals: Become a skilled programmer & crack GATE 💪</p>
+
+###
+
+<h2 align="left">I code with👨‍💻</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
+</div>
+
+###
+
+<h2 align="left">Socials!</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithun-srinivasan/mithun-srinivasan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithun-srinivasan/mithun-srinivasan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mithun-srinivasan/mithun-srinivasan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
