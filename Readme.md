@@ -1,8 +1,13 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/6PZq0wn/github-header.png" width="100%" alt="Header Banner">
+</p>
+
 <h1 align="center">Hello! 👋<br>Namaskaram!! ☺️</h1>
 
 ###
 
-<h5 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.</h5>
+<h4 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.</h4>
 
 ###
 
@@ -14,7 +19,7 @@
 
 ###
 
-<h2 align="left">I code with👨‍💻</h2>
+<h2 align="left">I code with 👨‍💻</h2>
 
 ###
 
@@ -33,8 +38,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/mithun-srinivasan-msec/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:omsaimithun@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
 
 ###
