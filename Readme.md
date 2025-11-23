@@ -1,7 +1,8 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/6PZq0wn/github-header.png" width="100%" alt="Header Banner">
-</p>
+<div align="center">
+  <img height="200" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  />
+</div>
+
+###
 
 <h1 align="center">Hello! 👋<br>Namaskaram!! ☺️</h1>
 
@@ -19,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with 👨‍💻</h2>
+<h2 align="left">I code with👨‍💻</h2>
 
 ###
 
@@ -38,12 +39,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mithun-srinivasan-msec/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:omsaimithun@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
