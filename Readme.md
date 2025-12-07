@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025😄<br>📚 I'm currently learning Computer Science and Engineering and Programming Languages.<br>🎯 Goals: Become a skilled programmer & crack GATE 💪</p>
+<p align="left">✨ Creating bugs since 2025😄<br>📚 I'm currently learning Computer Science and Engineering and Programming Languages</p>
 
 ###
 
