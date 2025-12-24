@@ -2,43 +2,36 @@
   <img height="200" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  />
 </div>
 
-###
-
 <h1 align="center">Hello! 👋<br>Namaskaram!! ☺️</h1>
-
-###
 
 <h4 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.</h4>
 
-###
+---
 
 <h2 align="left">About me!</h2>
 
-###
+<p align="left">
+✨ Creating bugs since 2025😄<br>
+📚 I'm currently learning Computer Science, Engineering and Programming Languages
+</p>
 
-<p align="left">✨ Creating bugs since 2025😄<br>📚 I'm currently learning Computer Science, Engineering and Programming Languages</p>
+---
 
-###
-
-<h2 align="left">I code with👨‍💻</h2>
-
-###
+<h2 align="left">I code with 👨‍💻</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
 </div>
 
-###
+---
 
 <h2 align="left">Socials!</h2>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mithun-srinivasan-msec/" target="_blank">
@@ -46,6 +39,12 @@
   </a>
   <a href="mailto:omsaimithun@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-    ###
-![Mithun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun-srinivasan&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+  </a>
 </div>
+
+---
+
+### 📊 Github Activity Graph
+
+![Mithun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun-srinivasan&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
+
