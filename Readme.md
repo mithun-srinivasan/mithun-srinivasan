@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025😄<br>📚 I'm currently learning Computer Science and Engineering and Programming Languages</p>
+<p align="left">✨ Creating bugs since 2025😄<br>📚 I'm currently learning Computer Science, Engineering and Programming Languages</p>
 
 ###
 
