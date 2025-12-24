@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+---
 
-<div align="center">
 ![Mithun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun-srinivasan&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
-</div>
+
