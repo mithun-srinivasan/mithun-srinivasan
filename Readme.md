@@ -47,6 +47,5 @@
   <a href="mailto:omsaimithun@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
     ###
-    ![My's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun-srinivasan&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  </a>
+![Mithun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun-srinivasan&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
 </div>
