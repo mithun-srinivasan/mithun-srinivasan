@@ -37,6 +37,7 @@
   </a>
 </div>
 
----
+<hr style="height:1px;border:none;border-top:1px solid #444;"/>
+
 
 ![Mithun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun-srinivasan&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
