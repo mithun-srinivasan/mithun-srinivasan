@@ -6,16 +6,12 @@
 
 <h4 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.</h4>
 
----
-
 <h2 align="left">About me!</h2>
 
 <p align="left">
 ✨ Creating bugs since 2025😄<br>
 📚 I'm currently learning Computer Science, Engineering and Programming Languages
 </p>
-
----
 
 <h2 align="left">I code with 👨‍💻</h2>
 
@@ -29,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
 </div>
 
----
 
 <h2 align="left">Socials!</h2>
 
@@ -42,7 +37,6 @@
   </a>
 </div>
 
----
 
 ### 📊 Github Activity Graph
 
