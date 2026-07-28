@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=git,python,github" />
+  <img src="https://skillicons.dev/icons?i=git,c,cpp,matlab,python,github" />
 </div>
 
 
