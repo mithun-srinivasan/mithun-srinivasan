@@ -16,13 +16,6 @@
 <h2 align="left">I code with 👨‍💻</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=git,c,cpp,matlab,python,github" />
 </div>
 
