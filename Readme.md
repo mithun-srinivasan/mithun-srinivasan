@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello! 👋<br>Namaskaram!! ☺️</h1>
 
-<h4 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.</h4>
+<h4 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.<br>FOSS/Linux Enthusiast!</h4>
 
 <h2 align="left">About me!</h2>
 
