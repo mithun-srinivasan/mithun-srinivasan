@@ -31,4 +31,8 @@
   </a>
 </div>
 
+<h2 align="left">3D Contribution Graph!</h2>
+
+![3D-Contrib](profile-3d-contrib/profile-green-animate.svg)
+
 <hr style="height:1px;border:none;border-top:1px solid #444;"/>
