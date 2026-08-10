@@ -37,5 +37,5 @@
 
 <hr style="height:1px;border:none;border-top:1px solid #444;"/>
 <p align="left">
-Check My Links, if you want to connect with me!!
+Check My Portfolio!, if you want to connect with me!!
 </p>
