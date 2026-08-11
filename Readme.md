@@ -13,13 +13,6 @@
 📚 I'm currently learning Computer Science, Engineering and Programming Languages
 </p>
 
-<h2 align="left">I code with 👨‍💻</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,c,cpp,matlab,python,github" />
-</div>
-
-
 <h2 align="left">Socials!</h2>
 
 <div align="center">
