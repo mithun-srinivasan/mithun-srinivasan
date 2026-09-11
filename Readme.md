@@ -12,7 +12,6 @@
 ✨ Creating bugs since 2025😄<br>
 📚 I'm currently learning Computer Science, Engineering and Programming Languages
 </p>
-
 <h2 align="left">Socials!</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mithun-srinivasan-msec/" target="_blank">
