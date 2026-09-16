@@ -7,7 +7,6 @@
 <h4 align="center">I’m Mithun Srinivasan!!<br>CSE undergrad<br>Passionate about coding, tech & problem-solving.<br>FOSS/Linux Enthusiast!! </h4>
 
 <h2 align="left">About me!</h2>
-
 <p align="left">
 ✨ Creating bugs since 2025😄<br>
 📚 I'm currently learning Computer Science, Engineering and Programming Languages
